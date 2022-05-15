@@ -1,0 +1,12 @@
+.*
+*.o
+*.ko
+*.mod.c
+modules.order
+Module.symvers
+!.gitignore
+cscope.files
+cscope.in.out
+cscope.out
+cscope.po.out
+getinfo
